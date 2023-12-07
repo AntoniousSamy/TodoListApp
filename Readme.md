@@ -9,7 +9,7 @@ Mobile App, for Managing To Do Lists. Welcome to the Todo List Mobile App! This 
 - [Key Features](#key-features)
 - [Usage](#usage)
 - [React Component Tree](#react-component-tree)
-- [Demo](#Demo)
+- [Demo](#demo)
 
 ### Key Features
 
